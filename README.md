@@ -16,7 +16,7 @@ bun add --save @macfja/nestjs-queue
 
 ## Usage
 
-### Instantiation
+### Initialization
 
 In your main module
 ```ts
@@ -198,23 +198,23 @@ The queue features are based on [`p-queue`](https://github.com/sindresorhus/p-qu
 This will introduce delay between the P-Queue release and when it will be available in this library
 
 [^1]: There are several issues about the fact that Nestjs is not comaptible with ESM
-  - https://github.com/nestjs/nest/issues/13319
-  - https://github.com/nestjs/nest/issues/7021
-  - https://github.com/nestjs/nest/issues/13851
-  - https://github.com/nestjs/nest/issues/13817
-  - https://github.com/nestjs/nest/issues/13557
-  - https://github.com/nestjs/nest/issues/13144
-  - https://github.com/nestjs/nest/issues/12102
-  - https://github.com/nestjs/nest/issues/11897
-  - https://github.com/nestjs/nest/issues/11046
-  - https://github.com/nestjs/nest/issues/11021
-  - https://github.com/nestjs/nest/issues/10846
-  - https://github.com/nestjs/nest/issues/10267
-  - https://github.com/nestjs/nest/issues/10239
-  - https://github.com/nestjs/nest/issues/9265
-  - https://github.com/nestjs/nest/issues/8775
-  - https://github.com/nestjs/nest/issues/7021
-  - https://github.com/nestjs/nest/pull/8736
+    - https://github.com/nestjs/nest/issues/13319
+    - https://github.com/nestjs/nest/issues/7021
+    - https://github.com/nestjs/nest/issues/13851
+    - https://github.com/nestjs/nest/issues/13817
+    - https://github.com/nestjs/nest/issues/13557
+    - https://github.com/nestjs/nest/issues/13144
+    - https://github.com/nestjs/nest/issues/12102
+    - https://github.com/nestjs/nest/issues/11897
+    - https://github.com/nestjs/nest/issues/11046
+    - https://github.com/nestjs/nest/issues/11021
+    - https://github.com/nestjs/nest/issues/10846
+    - https://github.com/nestjs/nest/issues/10267
+    - https://github.com/nestjs/nest/issues/10239
+    - https://github.com/nestjs/nest/issues/9265
+    - https://github.com/nestjs/nest/issues/8775
+    - https://github.com/nestjs/nest/issues/7021
+    - https://github.com/nestjs/nest/pull/8736
 
 ## Contributing
 

@@ -1,6 +1,6 @@
 {
 	"name": "@macfja/nestjs-queue",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A Nestjs module to create queues and actions that need to check freshness of a data.",
 	"main": "dist/index.cjs",
 	"module": "dist/index.mjs",
