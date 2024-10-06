@@ -1,0 +1,11 @@
+{
+	"threshold": 0,
+	"reporters": ["consoleFull", "console"],
+	"ignore": [
+		"node_modules/**",
+		"coverage/**",
+		".tsimp/**",
+		"test/unit/**",
+		"dist/**"
+	]
+}
